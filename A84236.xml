@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding happy and joyfull newes from the Kings Maiesty, and the Prince his Highnesse at Shrewesbury. Together with His Majesties demands of the knights, gentry and commonalty of Shropshire, propounded to the maior of Shrewesbury, Septem. 24. Brought from Shrewesbury by the last post, Sept. 24. Whereunto is annexed His Maiesties speech and protestation, made in the head of his army, betweene Stafford and Wellington, the 19. of Septem. After the reading of his orders.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84236</idno>
+            <idno type="STC">Wing E3740</idno>
+            <idno type="STC">Thomason E118_49</idno>
+            <idno type="STC">ESTC R12487</idno>
+            <idno type="EEBO-CITATION">99859293</idno>
+            <idno type="PROQUEST">99859293</idno>
+            <idno type="VID">156122</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84236)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156122)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E118[49])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding happy and joyfull newes from the Kings Maiesty, and the Prince his Highnesse at Shrewesbury. Together with His Majesties demands of the knights, gentry and commonalty of Shropshire, propounded to the maior of Shrewesbury, Septem. 24. Brought from Shrewesbury by the last post, Sept. 24. Whereunto is annexed His Maiesties speech and protestation, made in the head of his army, betweene Stafford and Wellington, the 19. of Septem. After the reading of his orders.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Blund:,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Sept. 27. [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Year of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156122:1"/>
+            <pb facs="tcp:156122:1" rendition="simple:additions"/>
+            <p>Exceeding Happy and Joyfull Newes from the Kings Maieſty, and the Prince his Highneſſe at <hi>Shrewesbury.</hi>
+            </p>
+            <p>Together with His Majeſties Demands of the Knights, Gentry and Commonalty of <hi>Shropſhire,</hi> pro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ounded to the Maior of <hi>Shrewesbury, Septem.</hi> 24.</p>
+            <p>Brought from <hi>Shrewesbury</hi> by the laſt Poſt, <hi>Sept.</hi> 24.</p>
+            <p>Whereunto is annexed,<lb/> His Maieſties Speech and Proteſtation, made in the head of His Army, betweene <hi>Stafford</hi> and <hi>Wellington,</hi> the 19. of <hi>Septem.</hi> After the reading of His Orders.</p>
+            <p>LONDON, Printed for <hi>H. Blund: Sept.</hi> 27.</p>
+         </div>
+      </front>
+      <body>
+         <div type="military_report_from_Shrewsbury">
+            <pb facs="tcp:156122:2"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <pb facs="tcp:156122:2"/>
+            <head>Exceeding Joyfull Newes from the Kings moſt Excellent Ma<g ref="char:EOLhyphen"/>jeſty at <hi>Shrewesbury.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Right Hono<g ref="char:EOLhyphen"/>rable <hi>Robert</hi> Earle of <hi>Eſſex</hi> having information and intelligence by divers Letters fro<g ref="char:cmbAbbrStroke">̄</g> Mr. <hi>Fines,</hi> now reſident neere the City of <hi>Worceſter,</hi> with about the number of 600. Dragoo<g ref="char:EOLhyphen"/>neers, that Prince <hi>Robert</hi> was come thi<g ref="char:EOLhyphen"/>ther with many Troopes of Horſe, and
+<pb n="2" facs="tcp:156122:3"/>that his Majeſty were allſo coming thei<g ref="char:EOLhyphen"/>ther with moſt of his forces, deſiring him that he would be pleaſed to aduance his fooces from warwick and thoſe parts to<g ref="char:EOLhyphen"/>wards the ſaide City of worceſter for the ſafeguard and ſecuryty of the ſame: Rela<g ref="char:EOLhyphen"/>ting alſo the inhumane acts and barbarus cruelties of the cavaleers which they day<g ref="char:EOLhyphen"/>ly committed and excuted upon the Kings Majeſties true Subjects, ſaying that they were all <hi>Round-heads</hi> that would not uſe the good word of <hi>God Dam-me.</hi>
+            </p>
+            <p>It was alſo ſet downe, that His Majeſty doth daily amongſt his owne Forces and the Inhabitants where they reſide, make Speeches unfolding his minde to them concerning theſe warlike affaires, and certifying to them that he will live and dye in his ſaid Reſolution, and will main<g ref="char:EOLhyphen"/>taine the True Proteſtant Religion, the Lawes of the Land, and the property of the Subject.</p>
+            <pb facs="tcp:156122:3"/>
+            <p> Hee alſo certified the ſaid Earle, that Prince <hi>Robert</hi> begins to fire and burne downe many houſes; and that he is now planting of divers Ordnance upon the walls of the City of <hi>Worceſter</hi> and that he is now making and raiſing of great Bul<g ref="char:EOLhyphen"/>warkes and Fortifications neere to the ſaid City, giving out many threatning ſpeeches againſt thoſe that will not ſubſcribe nor condeſcend to his deſires and ſtrict de<g ref="char:EOLhyphen"/>mands.</p>
+            <p>The ſaid Letters alſo ſignified, that moſt of the Cavaliers in divers Counties were reſolved and determined to aſſemble toge<g ref="char:EOLhyphen"/>ther and to march towards the ſaid City of <hi>Worceſter,</hi> becauſe it is ſuppoſed, that the Earle of <hi>Eſſex</hi> and His Royall Maje<g ref="char:EOLhyphen"/>ſtie hath appointed to have a generall mee<g ref="char:EOLhyphen"/>ting neer the ſaid City with all their For<g ref="char:EOLhyphen"/>ces, and then to conferre upon the Af<g ref="char:EOLhyphen"/>faires of this Kingdom and both houſes of Parliament which are now in debate be<g ref="char:EOLhyphen"/>tween the great Coutcell of this Kingdom,
+<pb n="4" facs="tcp:156122:4"/>And His Royall and ſacred Majeſty, but the Cavaleers have already given out, that before there ſhall be any agreement, or hap<g ref="char:EOLhyphen"/>py conclutions theſe preſent diſtractions, betwixt his Majeſty and his Excelencie the Earle of <hi>Fſſex,</hi> that they will each man loſſe their lives, and adventure their per<g ref="char:EOLhyphen"/>ſons in oppoſition of the ſame, but let all good Chriſtians prayers aſcend up to the Almighty, who is the Ruler of every Bat<g ref="char:EOLhyphen"/>tell, and the greateſt. Generall over all Armies, that hee would be ſo graciouſly pleaſed to ſend downe his holy Spirit to guide and direct his Royall Majeſty (the King of <hi>Great Britaine</hi>) that he may at the ſaid meeting with His Excellence the Earl of <hi>Eſſex,</hi> Lord Generall of the Parlia<g ref="char:EOLhyphen"/>ments Forces, agree and conclude upon ſuch Articles of peace that may advance to the Glory of Gods true Religion, and the peace and union of this diſtracted Kingdome, that ſo with unity and con<g ref="char:EOLhyphen"/>cord His Majeſty and the Honourable
+<pb n="5" facs="tcp:156122:4"/>Court of Parliament may have a happy and bleſſed meeting, to ſettle this King<g ref="char:EOLhyphen"/>dome in its owne poſture, to which let all good people ſay <hi>Amen.</hi>
+            </p>
+            <p>It is credibly reported about the Weſt<g ref="char:EOLhyphen"/>erne Countries that His Majeſty is reſolved to have a Treaty with the Earle of <hi>Eſſex,</hi> and to conclude upon ſuch matters as ſhall be for the glory of Gods true Reli<g ref="char:EOLhyphen"/>gion, but the day appointed is not yet knowne: His Majeſty upon the 23 of <hi>September</hi> came to <hi>Shrewesbury,</hi> and at his comming thither propounded theſe fol<g ref="char:EOLhyphen"/>lowing propoſitions:</p>
+            <p>The Maior and Gentry of the ſaid town condeſcended to them, being to this ef<g ref="char:EOLhyphen"/>fect. 1. That he was reſolved to make that City his place of reſidence for ſome cer<g ref="char:EOLhyphen"/>taine time. 2. That His deſires was that they would be pleaſed to reſigne the Ma<g ref="char:EOLhyphen"/>gazine of that County into His Majeſties cuſtody, which was done and performed accordingly.</p>
+         </div>
+         <div type="speech">
+            <pb facs="tcp:156122:5"/>
+            <head>His Majeſties Speech and proteſlaiion, made in the Head of his Army, <hi>19.</hi> Sept. After the reading of His Orders.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>YOu have heard theſe Orders read; It is your part in your ſeverall places to obſerve them exactly: The time cannot be long before we come to Action, therefore you have, the more reaſon to be careful: And I muſt tell you, I ſhall be very ſevere in puniſhing of thoſe, of what condition ſoever, who tranſgreſſe theſe Iuſtructions. I cannot ſuſnect your Courage and Reſolution; your Conſcience and your Loy<g ref="char:EOLhyphen"/>alty hath brought you hither to fight for your Religion, your King, and the Laws of the Land; You ſhall meer with no Enemies, but Trai<g ref="char:EOLhyphen"/>tors; moſt of them Browniſts, Anabaptiſts, and Atheiſts, ſuch who de<g ref="char:EOLhyphen"/>ſire to deſtroy both Church and State, and who have already condem<g ref="char:EOLhyphen"/>ned you to ruine for being loyall to Vs That you may ſee what uſe I mean to make of your va<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our, if it pleaſe God to bleſſe it with ſucceſſe I have thought fit to publiſh my Reſolution and Proteſtation, which when you have heard me make, you will beleeve you cannot ſight in a better quarrell; In which I promiſe to live and dye with you.</p>
+            <p>
+               <seg rend="decorInit">I</seg> Doe promiſe in the preſents of Almighty God, and as J hope for his Bleſſing and Protection. That I will defend and maintaine the true Reformed Proteſtant Religion, eſtabliſhed in the Church of England; and by the Grace of God in the ſame wil live and die. I deſire to governe by <hi>The known Laws of the Land,</hi> and that <hi>The Liberty and property of the Subject</hi> may he by them preſerved with the ſame Care as my owne juſt Rights. And if it pleaſe God by his bleſsing upon this Army raiſed for my neceſſary defence, to preſerve my from this Rebellion, I do ſolemnly and faithfully Promiſe in the ſight of God, to maintaine <hi>The Iuſt Priviledges and Freedome of Parliament,</hi> and to govern by <hi>The knowne Laws of the Land</hi> to my vtmoſt Power, and particularlyo obſerve inviolably <hi>The Laws conſented to by me this Parliament,</hi> In the meane while, If this time of Watre, and the great neceſſity and ſtraits I am now driven to beget any violation of thoſe. <hi>J</hi> hope it ſhall be imputed by God and Man to the Authors of this War, and not to me who have ſo earneſtly laboured for the preſervation of <hi>the Peace of this Kingdome.</hi>
+            </p>
+            <p>When <hi>I</hi> willingly faile in theſe particulars, <hi>J</hi> will expect no aide or reliefe from any man or protection from Heaven; But in this Reſolution <hi>I</hi> hope for the cheerefull aſſiſtance of all vood men, and am confident of Gods bleſſing.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:156122:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
